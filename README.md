@@ -1,1 +1,1 @@
-# leetcode solutions & GeeksforFeeks solutions
+# Leetcode & GeeksforGeeks code solutions
